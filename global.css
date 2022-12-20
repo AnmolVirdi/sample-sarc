@@ -1,0 +1,35 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-hind: Hind;
+  --font-mukta-mahee: "Mukta Mahee";
+  --font-roboto-condensed: "Roboto Condensed";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 20px;
+  --font-size-xl: 22px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 30px;
+  --font-size-4xl: 38px;
+  --font-size-5xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #82c3ff;
+  --color-gray-200: #277bc7;
+  --color-gray-300: #2167a7;
+  --color-gray-400: #3e3c3c;
+  --color-gray-500: rgba(255, 255, 255, 0.61);
+  --color-gray-600: rgba(0, 0, 0, 0.7);
+  --color-gray-700: rgba(255, 255, 255, 0.8);
+
+  /* border radiuses */
+  --br-sm: 3px;
+  --br-md: 5px;
+  --br-lg: 6px;
+}
